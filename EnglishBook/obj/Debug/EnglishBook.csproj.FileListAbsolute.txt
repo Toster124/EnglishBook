@@ -1,0 +1,9 @@
+C:\Users\ivlik\source\repos\EnglishBook\EnglishBook\obj\Debug\EnglishBook.Form1.resources
+C:\Users\ivlik\source\repos\EnglishBook\EnglishBook\obj\Debug\EnglishBook.Properties.Resources.resources
+C:\Users\ivlik\source\repos\EnglishBook\EnglishBook\obj\Debug\EnglishBook.csproj.GenerateResource.cache
+C:\Users\ivlik\source\repos\EnglishBook\EnglishBook\obj\Debug\EnglishBook.csproj.CoreCompileInputs.cache
+C:\Users\ivlik\source\repos\EnglishBook\EnglishBook\bin\Debug\EnglishBook.exe.config
+C:\Users\ivlik\source\repos\EnglishBook\EnglishBook\bin\Debug\EnglishBook.exe
+C:\Users\ivlik\source\repos\EnglishBook\EnglishBook\bin\Debug\EnglishBook.pdb
+C:\Users\ivlik\source\repos\EnglishBook\EnglishBook\obj\Debug\EnglishBook.exe
+C:\Users\ivlik\source\repos\EnglishBook\EnglishBook\obj\Debug\EnglishBook.pdb
